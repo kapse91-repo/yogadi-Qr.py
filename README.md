@@ -1,4 +1,4 @@
-# yogadi-Qr.py <br>
+# yogadi-Qr_Generator <br>
 This is my first git repo and first project in python.<br>
 Author- Aditya Kapse <br>
                                                                     <br> UPI QR Code Generator <br>
